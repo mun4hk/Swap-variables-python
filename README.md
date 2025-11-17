@@ -18,4 +18,4 @@ The program asks the user to input two strings, prints them, then swaps the valu
 - Swapping variables: `a, b = b, a`
 
 ## 📄 License
-This project is licensed under the MIT License — see the `LICENSE` file for details.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
